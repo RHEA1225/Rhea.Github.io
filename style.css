@@ -1,0 +1,11 @@
+/* Reset some default styles */
+body, h1, h2{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+img{
+    width:50%;
+    margin: 1px auto;
+    display: block;
+}
